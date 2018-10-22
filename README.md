@@ -1,6 +1,6 @@
 # Custom st build
 
-`st` built with the following patches applied:  
+`st` (version `0.8.1`) built with the following patches applied:  
 - [scrollback](https://st.suckless.org/patches/scrollback/) (Including mouse scrollback)  
 - [copyurl](https://st.suckless.org/patches/copyurl/)  
 
