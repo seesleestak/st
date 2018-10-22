@@ -8,3 +8,10 @@ I've also added some of my preferred defaults to the `config.def.h`:
 - [Nord](https://github.com/arcticicestudio/nord/issues/89) colorscheme  
 - DejaVu Sans Mono
 - 8px internal border
+
+## Installing
+
+```
+git clone https://github.com/seesleestak/st.git && cd st
+make && sudo make install
+```
